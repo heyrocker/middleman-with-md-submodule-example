@@ -1,2 +1,12 @@
 @charset "utf-8";
 @import "normalize";
+
+.right {
+  float: right;
+  width: 67%;
+}
+
+.left {
+  float: left;
+  width: 33%;
+}
