@@ -1,5 +1,5 @@
 ---
-title: Creating Blog and News Content
+title: Creating Article Content
 layout: article
 ---
 
