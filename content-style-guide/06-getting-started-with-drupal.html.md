@@ -12,22 +12,23 @@ When you go to the [Drupal login page](http://staging.new.evergreen.edu/user), y
 ## Workbench
 The Workbench is your entry point to all of the content that you work with on the Evergreen site. If you're logged in, you can return to My Workbench from anywhere on Evergreen's main site by clicking *Workbench > My Workbench*.
 
+![Screenshot of Drupal's Workbench page](my_workbench.png)
+
 My Workbench shows a few things, including:
 
 * **My Most Recent Edits:** Last five pages that you have edited.
+
 * **Create Content:** Create an Article or Basic Page. Some users also are able to create news posts or upload files.
+
 * **My Site Section Content:** Longer list of user's previous page edits and updates
 
 ## Creating new content
 If you click on My Workbench on the toolbar, you can go to Create Content to add a new page. Alternately, from My Workbench, you should see the following links on the left hand side:
-* Upload File
-* Upload Image
-* Create Page
-* Create Blog Post or News Article
 
-Click Create Page to get to a new page entry form, and then add the content of the new page the same way you edit an existing page.
-
-At the bottom of the page, make sure to save as "Published" in order for other people to see the page.
+* [Upload File](07-uploading-images-and-files.html)
+* [Upload Image](07-uploading-images-and-files.html)
+* [Create Page](09-creating-basic-pages.html)
+* [Create Blog Post or News Article](10-creating-blog-posts-or-news-articles.html)
 
 ## Editing existing content
 Look through the list for the page you want to edit, then click on the Title. This will take you to the page. If you are unable to find the page or wish to search for a page click *Manage > Content* from the toolbar. This will allow you to search for pages. 
