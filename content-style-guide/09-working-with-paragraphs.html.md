@@ -10,6 +10,19 @@ When creating or editing Page content, you will have the opportunity to work wit
 
 There are several different types of Paragraphs you can work with, each with their own appearance and options. The section Paragraph Types goes into more detail on each type if you want more information on how they can be created or displayed.
 
+* [Article Listing](#article-listing)	
+* [Call to Action](#call-to-action)	
+* [Callout Box](#callout-box)	
+* [Compound](#compound)	
+* [Event Calendar](#event-calendar)	
+* [Form](#form)	
+* [Gallery](#gallery)	
+* [General Content](#general-content)	
+* [List of Documents](#list-of-documents)	
+* [List of Links](#list-of-links)	
+* [Sequential Steps](#sequential-steps)	
+* [Staff Listing](#staff-listing)
+
 ## Article Listing
 
 ## Call to Action
