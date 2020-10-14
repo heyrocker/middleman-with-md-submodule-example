@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Evergreen State College Content Style Guide
 layout: article
+category: Welcome
 ---
 
 This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Mailchimp.

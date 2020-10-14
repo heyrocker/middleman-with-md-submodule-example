@@ -1,6 +1,7 @@
 ---
 title: Getting Started With Drupal
 layout: article
+category: About Drupal
 ---
 
 **Terminology tip:** In Drupal every individual piece of "content," like a page, event, blog post, or directory listing, is called a "node." When you go to My Workbench and see a list of items, those are all nodes! A "page" is just one type of node.

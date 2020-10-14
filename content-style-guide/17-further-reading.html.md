@@ -1,6 +1,7 @@
 ---
 title: Further Reading
 layout: article
+category: Further Reading
 ---
 
 We love these style guides:

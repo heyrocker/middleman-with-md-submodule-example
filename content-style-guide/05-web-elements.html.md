@@ -1,6 +1,7 @@
 ---
 title: Web Elements
 layout: article
+category: About Drupal
 ---
 
 Every piece of content we publish contains a collection of small chunks, each one with a specific purpose that impacts presentation, SEO, accessibility, and a host of other purposes. This section lays the uses cases for these web elements. You can also see [Writing For Accessibility](/12-writing-for-accessibility.html.md) and [Writing For SEO](/13-writing-for-seo.html.md)

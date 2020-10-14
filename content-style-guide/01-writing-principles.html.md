@@ -1,6 +1,7 @@
 ---
 title: Writing Goals and Principles
 layout: article
+category: Writing For Evergreen
 ---
 
 With every piece of content we publish, we aim to:

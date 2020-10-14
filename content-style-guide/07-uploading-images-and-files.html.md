@@ -1,6 +1,7 @@
 ---
 title: Uploading Images And Files
 layout: article
+category: About Drupal
 ---
 
 ## Files
