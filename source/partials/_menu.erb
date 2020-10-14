@@ -2,8 +2,8 @@
   <% sitemap.resources.select { |r| r.data.category }.sort_by { |r| r.path }.group_by { |r| r.data.category }.each do |cat, arr| %>
     <h2><%= cat %></h2>
     <ul>
-      <% arr.each do |res| %>
-        <li><%= link_to res.data.title, res.data.path %></li>
+      <% arr.each do |resource| %>
+        <li><a href="<%= resource.url %>"><%= resource.data.title %></a></li>
       <% end %>
     </ul>
   <% end %>

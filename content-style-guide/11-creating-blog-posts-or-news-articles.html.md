@@ -1,7 +1,7 @@
 ---
-title: Creating Blog Posts or News Articles
+title: Blog Posts or News Articles
 layout: article
-category: Types of Content
+category: Content Types
 ---
 
 At Mailchimp, technical content appears primarily in our [guides and tutorials](https://mailchimp.com/help/). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.

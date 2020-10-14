@@ -1,7 +1,7 @@
 ---
-title: Creating Basic Pages
+title: Basic Pages
 layout: article
-category: Types of Content
+category: Content Types
 ---
 
 Every page has fields that hold the different pieces of information or "fields" that make up a page. The exact fields vary to match the content type.
