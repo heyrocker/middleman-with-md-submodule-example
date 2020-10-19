@@ -1,6 +1,6 @@
-# Middleman with Markdown Submodule Example
+# Middleman with Style Guide Example
 
-This is an example project using [Middleman](https://middlemanapp.com) and pulling in our [Style Guide](https://github.com/mailchimp/content-style-guide) as a submodule.
+This is an example project using [Middleman](https://middlemanapp.com). 
 
 ## Installation
 Requires Ruby 2.2.5 and Bundler
@@ -16,19 +16,26 @@ Install dependencies:
 bundle install
 ```
 
-Initialize the submodule:
-``` bash
-git submodule init
-```
-
-Update the submodule:
-``` bash
-git submodule update
-```
-
 Run it:
 ``` bash
 bundle exec middleman server
 ```
 
 View it at `http://localhost:4567/`
+
+## Development
+Site content is held in Markdown files which can be found in /content-style-guide.
+
+Visual styling is done with Sass, which can be found in /source/stylesheets/site.css.scss. 
+
+Templates are found in /source/layouts. Articles can control which layout they use by adjusting the metadata found at the top of each article.
+
+
+## Build
+Ater doing CSS changes or when preparing to deploy:
+
+``` bash
+bundle exec middleman build
+```
+
+Built site can be found in /build
