@@ -18,8 +18,6 @@ As you write, consider the following:
 - Is the markup clean and structured?
 - Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
 
-Many of the best practices for writing for accessibility echo those for [writing technical content](/08-writing-technical-content.html.md), with the added complexity of markup, syntax, and structure.
-
 ## Guidelines
 
 ### Avoid directional language
@@ -31,7 +29,7 @@ Avoid directional instructions and any language that requires the reader to see 
 
 ### Use headers
 
-Headers should always be nested and consecutive. Never skip a header level for styling reasons. To help group sections, be sure the page title is H1, top-level sections are H2s, and subsequent inside those are H3 and beyond. Avoid excessive nesting.
+Headers should always be nested and consecutive. Never skip a header level for styling reasons. To help group sections, be sure top-level sections are Heading 2, and subsequent topics inside those are Heading 3 and beyond. Avoid excessive nesting.
 
 ### Employ a hierarchy
 
@@ -43,7 +41,7 @@ Make true lists instead of using a paragraph or line breaks.
 
 ### Label forms
 
-Label inputs with clear names, and use appropriate tags. Think carefully about what fields are necessary, and especially which ones you mark as required. Label required fields clearly. The shorter the form, the better.
+Label form inputs with clear names. Think carefully about what fields are necessary, and especially which ones you mark as required. Label required fields clearly. The shorter the form, the better.
 
 ### Use descriptive links
 
@@ -63,13 +61,7 @@ The alt tag is the most basic form of image description, and it should be includ
 
 Each browser handles alt tags differently. Supplement images with standard captions when possible.
 
-### Make sure closed captioning is available
-
-Closed captioning or transcripts should be available for all videos. The information presented in videos should also be available in other formats.
-
 ### Be mindful of visual elements
-
-Aim for high contrast between your font and background colors. Tools in the resources section should help with picking accessible colors.
 
 Images should not be the only method of communication, because images may not load or may not be seen. Avoid using images when the same information could be communicated in writing.
 
@@ -78,5 +70,3 @@ Images should not be the only method of communication, because images may not lo
 - [Accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
 - [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
 - [Designing for Screen Reader Compatibility](http://webaim.org/techniques/screenreader/)
-- [Accessible color combinations](http://colorsafe.co/)
-- [WAVE Web Accessibility Evaluation Tool](http://wave.webaim.org/)
