@@ -4,7 +4,7 @@ layout: article
 category: About Drupal
 ---
 
-Every piece of content we publish contains a collection of small chunks, each one with a specific purpose that impacts presentation, SEO, accessibility, and a host of other purposes. This section lays the uses cases for these web elements. You can also see [Writing For Accessibility](/12-writing-for-accessibility.html.md) and [Writing For SEO](/13-writing-for-seo.html.md)
+Every piece of content we publish contains a collection of small chunks, each one with a specific purpose that impacts presentation, SEO, accessibility, and a host of other purposes. This section lays the uses cases for these web elements. You can also see [Writing For Accessibility](/12-writing-for-accessibility.html) and [Writing For SEO](/13-writing-for-seo.html.md)
 
 ## Guidelines
 
@@ -12,7 +12,7 @@ Every piece of content we publish contains a collection of small chunks, each on
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
+For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html) section.
 
 ### Headings and subheadings
 
@@ -25,8 +25,6 @@ Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. 
 Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H3 under H2, and on down.)
 
 Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
-
-Use title case, unless the heading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case. Use sentence case for subheadings regardless of end punctuation.
 
 Always use heading styles from the drop down in your editor for these use cases. Doing things like simply bolding text on its own line will not bring the same benefits, and causes problems for assistive devices.
 
@@ -46,8 +44,6 @@ Don’t say things like “Click here!” or “Click for more information” or
 ### Lists
 
 Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter. Use bullets instead.  
-
-If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
 ### Titles
 
