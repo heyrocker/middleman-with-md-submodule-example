@@ -3,3 +3,13 @@ title: Compound
 layout: article
 category: Paragraph Types
 ---
+
+Compound paragraph types are simply an image and a chunk of text aligned to the left of the image. This is a very simple way to a align an image and text into two columns. There are two fields available in the Compound type.
+
+*TO DO: Add screenshot from admin*
+
+**Image:** This allows you to either upload an image or choose from an existing image that had been uploaded previously. You will also need to add a name for this image so that other people can find it, as well as the image's Alt Text. For more information 
+
+**Text:** This is the text that will be placed alongside the image.
+
+!["Screenshot of an Compound paragraph type"](paragraphs--compound.png)
