@@ -8,7 +8,7 @@ Compound paragraph types are simply an image and a chunk of text aligned to the 
 
 *TO DO: Add screenshot from admin*
 
-**Image:** This allows you to either upload an image or choose from an existing image that had been uploaded previously. You will also need to add a name for this image so that other people can find it, as well as the image's Alt Text. For more information 
+**Image:** This allows you to either upload an image or choose from an existing image that had been uploaded previously. You will also need to add a name for this image so that other people can find it, as well as the image's Alt Text. For more information see [Uploading Images and Files](../02_about_drupal/03-uploading-images-and-files.htmls).
 
 **Text:** This is the text that will be placed alongside the image.
 
