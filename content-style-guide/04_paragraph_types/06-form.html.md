@@ -18,3 +18,5 @@ The following options are available for a Form
 - **Closed:** This means your form is closed and users will not be able to respond to it.
 - **Scheduled:** This allows you to schedule a date and time that your form will open and/or close. If you select the Scheduled option, then your form must have an Open time set. The Closed time is optional, and if not set your form will remain open until it is manually closed.
 
+![Example of the Form Paragraph type](paragraphs--form.png)
+
