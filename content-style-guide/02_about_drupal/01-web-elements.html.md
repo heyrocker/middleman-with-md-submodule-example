@@ -4,7 +4,7 @@ layout: article
 category: About Drupal
 ---
 
-Every piece of content we publish contains a collection of small chunks, each one with a specific purpose that impacts presentation, SEO, accessibility, and a host of other purposes. This section lays the uses cases for these web elements. You can also see [Writing For Accessibility](/12-writing-for-accessibility.html) and [Writing For SEO](/13-writing-for-seo.html.md)
+Every piece of content we publish contains a collection of small chunks, each one with a specific purpose that impacts presentation, SEO, accessibility, and a host of other purposes. This section lays the uses cases for these web elements. You can also see [Writing For Accessibility](../01_writing_for_evergreen/05-writing-for-accessibility.html) and [Writing For SEO](../01_writing_for_evergreen/06-writing-for-seo.html)
 
 ## Guidelines
 
@@ -12,7 +12,7 @@ Every piece of content we publish contains a collection of small chunks, each on
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html) section.
+For more on how and why we use alt text, read the [Writing For Accessibility](../01_writing_for_evergreen/05-writing-for-accessibility.html) section.
 
 ### Headings and subheadings
 
@@ -63,4 +63,4 @@ We write for humans, not machines. We don't use gross SEO techniques like keywor
 
 * Give every image descriptive alt text.
 
-For more information see [Writing For SEO](/19-writing-for-seo.html.md).
+For more information see [Writing For SEO](../01_writing_for_evergreen/06-writing-for-seo.html)

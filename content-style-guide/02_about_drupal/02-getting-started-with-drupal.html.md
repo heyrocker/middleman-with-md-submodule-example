@@ -26,10 +26,10 @@ My Workbench shows a few things, including:
 ## Creating new content
 If you click on My Workbench on the toolbar, you can go to Create Content to add a new page. Alternately, from My Workbench, you should see the following links on the left hand side:
 
-* [Upload File](07-uploading-images-and-files.html)
-* [Upload Image](07-uploading-images-and-files.html)
-* [Create Page](09-creating-basic-pages.html)
-* [Create Blog Post or News Article](10-creating-blog-posts-or-news-articles.html)
+* [Upload File](./03-uploading-images-and-files.html#files)
+* [Upload Image](./03-uploading-images-and-files.html#images)
+* [Create Page](../03_content_types/01-creating-basic-pages.html)
+* [Create Blog Post or News Article](../03_content_types/02-creating-blog-posts-or-news-articles.html)
 
 ## Editing existing content
 Look through the list for the page you want to edit, then click on the Title. This will take you to the page. If you are unable to find the page or wish to search for a page click *Manage > Content* from the toolbar. This will allow you to search for pages. 

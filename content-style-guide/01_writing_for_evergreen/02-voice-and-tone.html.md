@@ -3,6 +3,7 @@ title: Voice and Tone
 layout: article
 category: Writing For Evergreen
 ---
+*TO DO: Decide if you need this and if so what goes here*
 
 One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Mailchimp.
 
