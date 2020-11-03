@@ -29,18 +29,33 @@ While everyone has access to PDFs, they are hard to use on smaller devices. Many
 5.	Choose the "Site Section" (optional), type "Alt Text" (for an image), and add a "Description" (required).
 6.	Click Save. 
 
+**Note:** It is important to write good descriptions! This makes it possible for you and others to find this file later when you want to use it in the site.
+
+![Screenshot of Drupal's Upload File page](images-and-files--upload-file.png)
+
 ### Link to the file
-1.	Open the page you want to link from.
-2.	Type the text that will become the link. 
-Writing good link text
+1.  Edit the page you want to link from.
+2.  Find the text you want to link, or add it yourself.
+3.  Highlight the link text (and file type). Example: Admission Form (PDF) ![Screenshot of higlighting a piece of text in Drupal](images-and-files--linking-highlight.png)
+5.  Click on the link button.![Screenshot of higlighting a piece of text in Drupal](images-and-files--linking-link-button.png)
+6.  Use Search for content to find the file you uploaded. (You may have to scroll to the bottom to see the files).![Screenshot of higlighting a piece of text in Drupal](images-and-files--linking-search.png)
+7.  Select the correct file and click Save.![Screenshot of higlighting a piece of text in Drupal](images-and-files--linking-save.png)
+8.  Click Save to save the changes to the page.
+
+####Writing good link text
 Describe what people should expect when they click on the link. That means both a clear title of the file and the file type. The file type MUST ALWAYS be included in the link for accessibility reasons.
-Good: Download the Military Tuition Waiver (PDF)Links to an external site.. [The link includes the form name and the file type is in the link. Optionally include the file size.]
-Bad: If you might be eligible, please download the formLinks to an external site.. [There is no form name, and the link doesn't indicate that it's a Word document to be downloaded! A better link would be Complete the Registration Form (Word)
-3.	Highlight the link text (and file type). Example: Local College Resources (PDF) 
-4.	Click on the link button.  
-5.	Use Search for content to find the file you uploaded. (You may have to scroll to the bottom to see the files)  
-6.	Select the correct file and click Save.
-7.	Click Save to save the changes to the page.
+
+**Good:** 
+
+Download the [Military Tuition Waiver (PDF)](#).
+
+*[The link includes the form name and the file type is in the link. Optionally include the file size.]*
+
+**Bad:** 
+
+If you might be eligible, please [download the form](#). 
+
+*[There is no form name, and the link doesn't indicate that it's a Word document to be downloaded! A better link would be [Complete the Registration Form (Word)](#)]*
 
 ### Removing and Replacing a File
 1.	Go to Workbench, then the File & Images tab.

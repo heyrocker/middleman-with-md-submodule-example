@@ -24,7 +24,7 @@ My Workbench shows a few things, including:
 * **My Site Section Content:** Longer list of user's previous page edits and updates
 
 ## Creating new content
-If you click on My Workbench on the toolbar, you can go to Create Content to add a new page. Alternately, from My Workbench, you should see the following links on the left hand side:
+If you click on My Workbench on the toolbar, you will see the following links on the left hand side under **Create Content**:
 
 * [Upload File](./03-uploading-images-and-files.html#files)
 * [Upload Image](./03-uploading-images-and-files.html#images)
@@ -32,12 +32,16 @@ If you click on My Workbench on the toolbar, you can go to Create Content to add
 * [Create Blog Post or News Article](../03_content_types/02-creating-blog-posts-or-news-articles.html)
 
 ## Editing existing content
-Look through the list for the page you want to edit, then click on the Title. This will take you to the page. If you are unable to find the page or wish to search for a page click *Manage > Content* from the toolbar. This will allow you to search for pages. 
+Look through **My Site Section Content** for the page you want to edit. Once you find the content you are looking for, click "Edit" in the far right column. Alternately you can click on the title, this will take you to the page. Once you are on the page you want to edit, click on the Edit tab above the title.
 
-You can also go directly to a page you need to edit and click on the Edit tab above the title.
+If you are unable to find the page or wish to search for a page click *Manage > Content* from the toolbar. This will allow you to search for pages. 
+
+![Screenshot of Drupal's Edit tab](getting-started-with-drupal--edit.png)
 
 ## Removing content
 To remove a page from being seen on the published site, you will change its status from Published to Archived. Click the edit button and go the the bottom on the page.
 
 * Under "Change to", choose Archived.
 * Click Save.
+
+![Screenshot of Drupal's archive status drop down](getting-started-with-drupal--archive.png)
