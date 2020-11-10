@@ -4,9 +4,9 @@ layout: article
 category: About Drupal
 ---
 
-When you need to add a link to something that's also part of the Evergreen website, it's critical that you use the button in the editor toolbar (shown below) and then search for the page you want. Here's how that works. 
+***TO DO: Revisit this when questions about CKEDitor linking are resolved***
 
-[screenshot]
+When you need to add a link to something that's also part of the Evergreen website, it's critical that you use the button in the editor toolbar (shown below) and then search for the page you want. Here's how that works. 
 
 Links have two parts - the text of the link (which users click) and the URL (where users are taken after clicking.) First, type  the text you want to link. Then highlight the text you want to link and click the link button in the toolbar. 
 
