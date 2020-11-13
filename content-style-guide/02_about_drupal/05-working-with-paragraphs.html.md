@@ -115,7 +115,7 @@ A **Gallery** allows users to embed forms or surveys to collect submissions from
 ### General Content
 **General Content** is the most commonly used paragraph type. It gives users a general purpose editor they can use to write long pieces of formatted text.
 
-*TO DO:* Need a screenshot
+![Example of the General Content Paragraph type](paragraphs--general-content.png)
 
 [More information on creating General Content](../04_paragraph_types/08-general-content.html)
 
@@ -143,6 +143,6 @@ A **List of Links** allows you to provide a consistently formatted way to displa
 ### Staff Listing
 **Staff Listings** will create an automated list of college staff, similar to an [Event Calendar](#event-calendar) or [Article Listing](#article-listing).
 
-*TO DO:* Missing a screen shot
+![Example of the Staff Listing Paragraph type](paragraphs--staff-listing.png)
 
 [More information on creating a Staff Listing](../04_paragraph_types/12-staff-listing.html)
