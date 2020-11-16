@@ -15,9 +15,11 @@ For Basic Pages, these are the fields you can edit:
 
 •	**Introduction**: The Introduction field should contain the very short paragraph that appears in green at the top of the page. No formatting or links are permitted in this field. It should simply be a statement that helps a visitor understand where they've landed and what they can do on this page.
 
-•	**Primary Content**: The Primary Content field should contain the majority of the page's useful information. 
+•	**Primary Content**: The Primary Content field should contain the majority of the page's useful information. This is also where you can add, arrange, and remove [Paragraphs](../02_about_drupal/05-working-with-paragraphs.html). 
 
 •	**Secondary Content**: Anything in the Secondary Content field appears at the bottom of the page in up to three boxes under the Primary Content.
+
+![Screenshot of a the editing interface for a Basic Page in Drupal](basic-page--editorial.png)
 
 ### Other parts of the page
 
