@@ -6,7 +6,7 @@ category: Paragraph Types
 
 Event Calendars will create an automated list of recent events posted to the website. The type and format of the content displayed is highly configurable, and the options available to users are too extensive to document in detail here. If you need more help with the Event Calendar content beyond this page, please contact web services.
 
-*TO DO: Add screenshot from admin*
+!["Screenshot of the Event Calendar editorial interface in Drupal"](paragraphs--event-calendar-editorial.png)
 
 The following options are available for an Event Calendar
 

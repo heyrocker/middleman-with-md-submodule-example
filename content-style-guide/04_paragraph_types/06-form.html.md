@@ -6,7 +6,7 @@ category: Paragraph Types
 
 Forms allow you to place different kinds of forms or surveys on your pages. If you need to accept form submissions from website users, you need to contact the web team and they will create one for you. Once that is done you will have the ability to place it onto a page using the Form component.
 
-*TO DO: Add screenshot from admin*
+!["Screenshot of the Form editorial interface in Drupal"](paragraphs--form-editorial.png)
 
 The following options are available for a Form
 

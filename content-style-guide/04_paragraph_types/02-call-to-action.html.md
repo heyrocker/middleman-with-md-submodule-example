@@ -6,7 +6,7 @@ category: Paragraph Types
 
 A Call To Action (or CTA) link encourages the user to take a spcific action on the site. Registering for classes, signing up for a newsletter, as long as the link involves the user making an active choice to do something, then a Call To Action is a great tool to use. The Call To Action has two fields you can use to control how it displays
 
-[admin screenshot]
+!["Screenshot of the Callout Box editorial interface in Drupal"](paragraphs--callout-box-editorial.png)
 
 **Link:** This is the link you want to send users to, and the text they will see on the button that gets rendered. Calls-to-action should be direct and succinct. Link text should be no more than 35 characters (four words max).
 

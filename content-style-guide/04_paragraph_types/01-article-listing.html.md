@@ -6,7 +6,7 @@ category: Paragraph Types
 
 Article Listings will create an automated list of recent content posted to the website. The type and format of the content displayed is highly configurable, and the options available to users are too extensive to document in detail here. If you need more help with the Article Listing content beyond this page, please contact web services.
 
-*TO DO: Add screenshot from admin*
+!["Screenshot of the Article Listing editorial interface in Drupal"](paragraphs--article-listing-editorial.png)
 
 The following options are available for an Article Listing
 

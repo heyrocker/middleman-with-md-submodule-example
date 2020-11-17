@@ -1,95 +1,32 @@
 ---
-title: Blog Posts or News Articles
+title: News or Blog Posts
 layout: article
 category: Content Types
 ---
 
-At Mailchimp, technical content appears primarily in our [guides and tutorials](https://mailchimp.com/help/). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+Just like a [Basic Page](01-creating-basic-pages.html), every Blog Post or News Article has fields that hold the different pieces of information that make up a page. The exact fields vary to match the content type.
 
-## Basics
+## What you can edit
+For Blog Posts or News Articles, these are the fields you can edit:
 
-Someone reading technical content is usually looking to answer a specific question. That question might be broad or narrowly focused, but either way our goal is to provide answers without distraction.
+•	**Site Section**: this determines what site title, navigation, and background image appears on the page. You can only assign pages to a site section that you have permission to edit.
 
-For each project, consider your audience’s background, goal, and current mood. Ask these questions:
+•	**Title**: in addition to appearing at the top of the page and in the browser title bar, this field is used to generate the page's URL (web address). Contact the Web Team if you need an alternate URL (like a shorter one for print).
 
-- Is the reader a prospective user, a new user, or an experienced user?
-- What is the goal of the user? To complete a task? To research a topic?
-- Is the user in the middle of a task? Are they in a hurry? Could they be frustrated?
+•	**Byline**: This indicates who this article will get credited to. By default this is set to Evergreen Staff, but this can be changed or removed if desired.
 
-We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases when we don’t have to. This is particularly critical when a user may be new and/or frustrated. 
+•	**Body**: Unlike Basic Page content, you cannot use Paragraphs with Blog Posts or News Articles. Instead, enter the content in the Body field, where you can format it and add images and links as normal.
 
-When relevant, provide a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
+•	**Tags**: Tags are used to identify topics for your article, and to aggregate similar topics throughout the site. You can use any of the already existing tags or add tags of your own. To use an existing tag, just start typing into the field, and choices will appear which match what you type. You can select one of these to use as a tag. If you need to add a new tag, just type it into the field and when the article is saved, it will be added as a new tag.
 
-## Types of technical content
+•	**Image**: This image will appear at the top of your article between the headling and your article's text. Unlike some other areas of the site, you must upload a new image here rather than using an existing one. ***TO DO: Verify this is in fact true.w***
 
-Technical content articles vary in target audience, goal, and tone. Mailchimp technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader.
+![Screenshot of a the editing interface for a Blog Post or News Article in Drupal](blog-post-news-article.png)
 
-Here are some examples of article templates we use. 
+### Other parts of the page
 
-| **Article Template** | **User Type**                  | **Goal**                                                                        |
-| -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
-| Pathfinder           | prospective, new, intermediate | **Orientation.** Bundle topics and provide links to relevant tutorials or general reference.         |
-| General Reference    | prospective, new, intermediate | **Introduction.** Provide a high-level explanation of what the feature is, how it works, and its benefit to the user. Include links to relevant tutorials.         |
-| Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior. Group by cause or topic. |
-| Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task. Provide a roadmap and prerequisites, and clear step-by-step instructions. |
+The **logo, search, top navigation, and footer** are all set for the site as a whole . These cannot be adjusted for individual pages or site sections.
 
+The site section navigation is set per section (/advising, /housing, etc). The navigation is broken into chunks with no more than 8 links per chunk. Navigation items are generally arranged alphabetically. Only the Web Team can edit your site section navigation. If you need this edited, please [put in a ticket](www.evergreen.edu/web) to request changes.
 
-## Guidelines
-
-### Writing technical content
-
-When writing technical content, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some other goals and pointers to keep in mind.
-
-#### Stay relevant to the title
-
-When a user clicks the title of an article, they expect to find the answer they want. Don’t stray too far from the title or topic at hand. Use links to make related content available. If you find you’re getting too far from the intended topic, then you may need to create a separate but related article.
-
-#### Keep headlines and paragraphs short and scannable
-
-Focused users often scan an article for the part that will answer their particular question. Be sure headlines are short, descriptive, and parallel, to facilitate scanning.
-
-#### Use second person and describe actions to a user
-
-Technical content talks to users when support agents can’t.
-
-#### Strive for simplicity and clarity
-
-Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to-translate idioms or words, focus on the specific task, limit the number of sentences per paragraph. If you must include edge cases or tangentially related information, set it aside in a Before You Start list or Notes field.
-
-#### Provide context through embedded screenshots, videos, and GIFs
-
-Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
-
-### Formatting technical content
-
-Technical content uses organization, capitalization, and other formatting to help convey meaning. Although articles are organized differently, some formatting tips are consistent throughout all technical content.
-
-#### Capitalization
-
-Capitalize proper names of Mailchimp products, features, pages, tools, and teams when directly mentioned. In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
-
-- Mailchimp
-- Compliance Team, Billing Team
-- Navigate to the **Reports** page.
-- Click **Create**.
-
-#### Headings
-
-Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks.
-
-Article title: About Landing Pages
-
- - H2: How landing pages work in Mailchimp
- - H2: How to use landing pages
- - H2: Resources
-   - H3: Get inspired and learn best practices
-   - H3: Create a landing page
-   - H3: Learn about reports
-
-#### Ordered Lists
-
-Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than 2 related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
-
-#### Unordered Lists
-
-Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, use a table instead.
+Contact information is created from the Campus Directory. If you want changes made to that information, please [put in a ticket](help.evergreen.edu) and ask for a directory change in adminweb.

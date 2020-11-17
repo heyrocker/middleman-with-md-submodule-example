@@ -6,7 +6,7 @@ category: Paragraph Types
 
 Staff Listings will create an automated list of college staff. The type and format of the content displayed is highly configurable, and all the options available to users are too extensive to document in detail here. If you need more help with the Staff Listing content beyond this page, please contact web services.
 
-*TO DO: Add screenshot from admin*
+!["Screenshot of the Staff Listing editorial interface in Drupal"](paragraphs--staff-listing-editorial.png)
 
 The following options are available for an Article Listing
 
@@ -18,7 +18,7 @@ The following options are available for an Article Listing
 
 There are also two fields under the Options section that are for advanced use cases and beyond the scope of this tutorial. If you need help with these items, please contact Web Services.
 
-*TO DO: I wasn't able to do these descriptions and screen shots since it looks like you need to be signed in via CAS for it to work?*
+
 ##Directories Display IDs
 
 ### Table of People

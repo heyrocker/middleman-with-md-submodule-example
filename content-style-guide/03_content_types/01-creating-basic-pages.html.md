@@ -4,7 +4,7 @@ layout: article
 category: Content Types
 ---
 
-Every page has fields that hold the different pieces of information or "fields" that make up a page. The exact fields vary to match the content type.
+Every page has fields that hold the different pieces of information that make up a page. The exact fields vary to match the content type.
 
 ## What you can edit
 For Basic Pages, these are the fields you can edit:
