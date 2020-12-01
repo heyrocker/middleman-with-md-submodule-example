@@ -16,15 +16,30 @@ The following options are available for an Article Listing
 
 **Display ID:** This field controls how your listing will display. These options will change depending on what you choose for People Listing above, however the default options for the Directories view are detailed below.
 
-There are also two fields under the Options section that are for advanced use cases and beyond the scope of this tutorial. If you need help with these items, please contact Web Services.
+Unlike other Paragraph types, you will need to use one of the fields underneath Options to get a Staff Listing to work.
 
+**Arguments:** This is where you will create the list of staff you wish to list. For every person you want on your list, you will have to enter their CAS ID followed by a comma. You should not put any spaces between the IDs, or every ID after the first one will be ignored. 
+
+**Include View Title:** This field an be safely ignored.
 
 ##Directories Display IDs
 
 ### Table of People
+This Display ID displays a simple table of the staff you have listed in the Arguments field.
+
+!["Screenshot of a Staff Listing in the Table of People style"](paragraphs--staff-listing-table-of-people.png)
+
 
 ### List of People
+This Display ID shows a bulleted list of the staff you have listed in the Arguments field.
+
+!["Screenshot of a Staff Listing in the List of People style"](paragraphs--staff-listing-list-of-people.png)
+
 
 ### Headshot Table
 
+***TO DO: This showed the same list as in Table of People above?***
+
 ### Faculty Bios
+
+***TO DO: I couldn't get this display to work?***
